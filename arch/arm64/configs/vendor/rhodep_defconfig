@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm64 5.4.233 Kernel Configuration
+# Linux/arm64 5.4.260 Kernel Configuration
 #
 CONFIG_CC_VERSION_TEXT="Android (8490178, based on r450784d) clang version 14.0.6 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6)"
 CONFIG_GCC_VERSION=0
@@ -23,8 +23,8 @@ CONFIG_THREAD_INFO_IN_TASK=y
 CONFIG_INIT_ENV_ARG_LIMIT=32
 # CONFIG_COMPILE_TEST is not set
 # CONFIG_UAPI_HEADER_TEST is not set
-CONFIG_LOCALVERSION="-moto"
-CONFIG_LOCALVERSION_AUTO=y
+CONFIG_LOCALVERSION="-Notkernel"
+# CONFIG_LOCALVERSION_AUTO is not set
 CONFIG_BUILD_SALT=""
 CONFIG_DEFAULT_HOSTNAME="(none)"
 CONFIG_SWAP=y
