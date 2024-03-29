@@ -244,4 +244,6 @@ source "drivers/gud/Kconfig"
 
 source "drivers/backlight/Kconfig"
 
+source "drivers/watchdogtest/Kconfig"
+
 endmenu
